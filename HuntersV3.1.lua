@@ -9,7 +9,7 @@ gg.alert("--------------------------------------------------- ▀▄▀▄▀▄
 
 function HOME()
   GR1 = gg.choice({
-    "👥Wallhack(Lobi)",
+    "👥Wallhaccck(Lobi)",
     "🎭Renkler(Lobi)",
     "📡Anten (Lobi) ",
     "🏹Sekmeme(Lobi/Oyun)",
